@@ -1,0 +1,5 @@
+DISPLAY_NAME=4BPM
+DESCRIPTION=Apenas um Bot
+MAIN=index.js
+MEMORY=128
+VERSION=recommended
